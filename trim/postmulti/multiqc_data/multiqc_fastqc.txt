@@ -1,0 +1,24 @@
+Sample	Filename	File type	Encoding	Total Sequences	Sequences flagged as poor quality	Sequence length	%GC	total_deduplicated_percentage	avg_sequence_length	basic_statistics	per_base_sequence_quality	per_tile_sequence_quality	per_sequence_quality_scores	per_base_sequence_content	per_sequence_gc_content	per_base_n_content	sequence_length_distribution	sequence_duplication_levels	overrepresented_sequences	adapter_content
+SRR40064985_1P	SRR40064985_1P	Conventional base calls	Sanger / Illumina 1.9	36582.0	0.0	36-146	42.0	11.027281176534908	129.5408670931059	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064986_1P	SRR40064986_1P	Conventional base calls	Sanger / Illumina 1.9	44663.0	0.0	36-146	43.0	10.00380628260529	129.93726350670576	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064987_1P	SRR40064987_1P	Conventional base calls	Sanger / Illumina 1.9	37687.0	0.0	36-146	43.0	11.608777562554726	128.85339772335288	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064988_1P	SRR40064988_1P	Conventional base calls	Sanger / Illumina 1.9	30677.0	0.0	36-146	43.0	11.135378296443589	129.54262150797015	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064989_1P	SRR40064989_1P	Conventional base calls	Sanger / Illumina 1.9	28655.0	0.0	36-146	43.0	11.268539521898449	129.4577560635142	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064990_1P	SRR40064990_1P	Conventional base calls	Sanger / Illumina 1.9	47546.0	0.0	36-146	43.0	10.078660665460818	129.83678963530056	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064991_1P	SRR40064991_1P	Conventional base calls	Sanger / Illumina 1.9	47828.0	0.0	36-146	42.0	10.015053943296813	130.28326503303504	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064992_1P	SRR40064992_1P	Conventional base calls	Sanger / Illumina 1.9	25985.0	0.0	36-146	45.0	14.947084856648067	122.99846065037522	pass	pass	pass	pass	fail	warn	warn	warn	fail	fail	pass
+SRR40064993_1P	SRR40064993_1P	Conventional base calls	Sanger / Illumina 1.9	21609.0	0.0	36-146	46.0	15.257531584062194	123.48026285344069	pass	pass	pass	pass	fail	fail	warn	warn	fail	fail	pass
+SRR40064994_1P	SRR40064994_1P	Conventional base calls	Sanger / Illumina 1.9	25030.0	0.0	36-146	45.0	15.117858569716342	123.67834598481822	pass	pass	pass	pass	fail	warn	warn	warn	fail	fail	pass
+SRR40064995_1P	SRR40064995_1P	Conventional base calls	Sanger / Illumina 1.9	36527.0	0.0	36-146	43.0	9.713362717989432	131.56191310537412	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40064996_1P	SRR40064996_1P	Conventional base calls	Sanger / Illumina 1.9	38171.0	0.0	36-146	45.0	13.59932933378743	124.21259594980482	pass	pass	pass	pass	fail	fail	warn	warn	fail	fail	pass
+SRR40064997_1P	SRR40064997_1P	Conventional base calls	Sanger / Illumina 1.9	48383.0	0.0	36-146	45.0	14.145464315978753	125.26395634830416	pass	pass	pass	pass	fail	fail	warn	warn	fail	fail	pass
+SRR40064998_1P	SRR40064998_1P	Conventional base calls	Sanger / Illumina 1.9	58330.0	0.0	36-146	44.0	13.048174181381794	125.50282873307046	pass	pass	pass	pass	fail	fail	warn	warn	fail	fail	pass
+SRR40064999_1P	SRR40064999_1P	Conventional base calls	Sanger / Illumina 1.9	33652.0	0.0	36-146	46.0	15.458219422322598	121.69710566979674	pass	pass	pass	pass	fail	warn	warn	warn	fail	fail	pass
+SRR40065000_1P	SRR40065000_1P	Conventional base calls	Sanger / Illumina 1.9	54150.0	0.0	36-146	43.0	9.615881809787627	129.42282548476453	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065001_1P	SRR40065001_1P	Conventional base calls	Sanger / Illumina 1.9	37546.0	0.0	36-146	43.0	10.75480743621158	129.50159803973793	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065002_1P	SRR40065002_1P	Conventional base calls	Sanger / Illumina 1.9	30952.0	0.0	36-146	44.0	11.168906694236238	128.70580253295427	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065003_1P	SRR40065003_1P	Conventional base calls	Sanger / Illumina 1.9	42676.0	0.0	36-146	43.0	10.251663698565938	130.21168806823508	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065004_1P	SRR40065004_1P	Conventional base calls	Sanger / Illumina 1.9	37272.0	0.0	36-146	43.0	10.847284825069757	131.03104206911354	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065005_1P	SRR40065005_1P	Conventional base calls	Sanger / Illumina 1.9	33055.0	0.0	36-146	44.0	10.848585690515806	128.59984873695356	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065006_1P	SRR40065006_1P	Conventional base calls	Sanger / Illumina 1.9	20761.0	0.0	36-146	44.0	12.566832040845815	129.02177159096382	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass
+SRR40065007_1P	SRR40065007_1P	Conventional base calls	Sanger / Illumina 1.9	15190.0	0.0	36-146	45.0	13.778801843317973	127.41586570111916	pass	pass	pass	pass	fail	fail	pass	warn	fail	fail	pass

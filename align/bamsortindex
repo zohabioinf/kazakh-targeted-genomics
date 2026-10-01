@@ -1,0 +1,31 @@
+#!/bin/bash
+#SBATCH --job-name=bam_sort_index
+#SBATCH --cpus-per-task=4
+#SBATCH --time=02:00:00
+#SBATCH --output=bam_sort_%j.out
+#SBATCH --error=bam_sort_%j.err
+
+module purge
+module load bear-apps/2020a/live
+module load SAMtools
+
+cd /rds/projects/e/elhamsak-acrg-tcga510/colo/
+
+
+for BAM in ./align/bam/*.bam
+do
+    SAMPLE=$(basename "$BAM" .bam)
+
+    echo "Sorting ${SAMPLE}..."
+
+    samtools sort -@ 4 \
+        "$BAM" \
+        -o "./align/sorted_bam/${SAMPLE}_sorted.bam"
+
+    echo "Indexing ${SAMPLE}..."
+
+    samtools index \
+        "./align/sorted_bam/${SAMPLE}_sorted.bam"
+
+    echo "${SAMPLE} completed."
+done

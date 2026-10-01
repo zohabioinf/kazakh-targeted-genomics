@@ -1,0 +1,28 @@
++--------------------------------------------------------------------------+
+| Job on the BlueBEAR cluster:
+| Starting at Tue Sep  8 09:08:29 2026 for zxs510(942274)
+| Identity jobid 53659717 jobname sam_to_bam
+| Running against project elhamsak-genomics-ngs and in partition icelake-shared
+| Requested cpu=4,mem=16G,node=1,billing=4 - 02:00:00 walltime
+| Allocated cpu=4,mem=16G,node=1,billing=4
+| Assigned to nodes bear-pg0104u16a
+| Command /rds/projects/e/elhamsak-acrg-tcga510/colo/align/samtobam.sh
+| WorkDir /rds/projects/e/elhamsak-acrg-tcga510/colo/align
++--------------------------------------------------------------------------+
++--------------------------------------------------------------------------+
+| Finished at Tue Sep  8 09:09:01 2026 for zxs510(942274) on the BlueBEAR Cluster
+| Required (00:26.609 cputime, 1920K memory used) - 00:00:33 walltime
+| JobState COMPLETING - Reason None
+| Exitcode 0:0
++--------------------------------------------------------------------------+
+Job efficiency stats from seff for Job ID: 53659717
+Cluster: paddington
+User/Group: zxs510/users
+State: COMPLETED (exit code 0)
+Nodes: 1
+Cores per node: 4
+CPU Utilized: 00:00:27
+CPU Efficiency: 20.45% of 00:02:12 core-walltime
+Job Wall-clock time: 00:00:33
+Memory Utilized: 1.88 MB
+Memory Efficiency: 0.01% of 16.00 GB (4.00 GB/core)
